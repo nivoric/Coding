@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: Roboto;
+}
+hr {
+    border-style: solid;
+    width: 75%;
+    margin-left: 0;
+    border-width: 1.5px;
+    margin-top: 50px;
+}
+.container {
+    border-style: solid;
+    padding: 15px;
+    padding-left: 50px;
+    width: 80%;
+    border-radius: 0px;
+    margin-inline: auto;
+    margin-top: 25px;
+    padding-bottom: 50px;
+}
+.title {
+    color: green;
+    font-weight: bold;
+}
+.edu {
+    color: rgb(13, 127, 221);
+    font-weight: bold;
+}
