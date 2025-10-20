@@ -24,7 +24,7 @@ It’s ideal for **beginners** learning front-end development, or anyone who wan
 
 ## 🧩 Features
 
-- Fully static — built with **HTML + CSS only**
+- Fully static — built with simple **HTML + CSS only**
 - Responsive design (adjusts for mobile, tablet, and desktop)
 - Clean, readable layout for recruiters or hiring managers
 - Easily customizable — edit text, colors, and layout to match your branding
@@ -33,5 +33,7 @@ It’s ideal for **beginners** learning front-end development, or anyone who wan
 
 ---
 
-## 🧱 Project Structure
+## Steps to take this project and modify it to your liking
 
+1. Git clone the repo or download it from the GitHub website to your machine
+2. Modify the project by adding your personal info and even use it as a personal CV for hiring
