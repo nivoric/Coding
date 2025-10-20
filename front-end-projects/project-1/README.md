@@ -5,15 +5,6 @@ This project demonstrates fundamental front-end skills — semantic HTML structu
 
 ---
 
-## 🌐 Demo
-
-If deployed via GitHub Pages, you can view it at:  
-👉 **[Live Demo](https://nivoric.github.io/Coding/front-end-projects/project-1/)**
-
-*(Replace this link with your actual GitHub Pages URL if needed.)*
-
----
-
 ## 🎯 Project Overview
 
 - This project is designed to create a clean, single-page online CV that highlights personal information, education, skills, and contact details — all within a concise layout.
