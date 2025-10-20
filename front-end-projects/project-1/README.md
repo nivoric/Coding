@@ -28,7 +28,7 @@ This project demonstrates fundamental front-end skills — semantic HTML structu
 
 ---
 
-## Steps to take this project and modify it to your liking
+## 🚧 Steps to copy this project
 
 1. Git clone the repo or download it from the GitHub website to your machine
 2. Modify the project by adding your personal info and even use it as a personal CV for hiring
