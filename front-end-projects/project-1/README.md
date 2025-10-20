@@ -16,9 +16,13 @@ If deployed via GitHub Pages, you can view it at:
 
 ## 🎯 Project Overview
 
-This project is designed to create a clean, single-page online CV that highlights personal information, education, skills, and contact details — all within a concise layout.
+- This project is designed to create a clean, single-page online CV that highlights personal information, education, skills, and contact details — all within a concise layout.
 
-It’s ideal for **beginners** learning front-end development, or anyone who wants to host their resume online with zero backend dependencies.
+- It’s ideal for **beginners** learning front-end development, or anyone who wants to host their resume online with zero backend dependencies.
+
+- This project is good for absolute beginners in coding who only know basic HTML and CSS.
+
+- This is inspired by the roadmap.sh front-end projects (beginner level)
 
 ---
 
