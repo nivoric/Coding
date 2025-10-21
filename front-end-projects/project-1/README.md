@@ -14,7 +14,7 @@ This project aims to create a minimalist, professional, single-page Curriculum V
 
 Crucially, **this project was developed as an exercise from Roadmap.sh's Frontend Developer Roadmap** to demonstrate mastery of basic HTML and CSS structure and styling, serving as a foundational entry for a developer's portfolio. It deliberately uses **zero** JavaScript, frameworks, or external dependencies to validate core skill proficiency.
 
-https://github.com/nivoric/Coding/tree/main/front-end-projects/project-1
+[https://github.com/nivoric/Coding/tree/main/front-end-projects/project-1](https://roadmap.sh/projects/single-page-cv)
 
 -----
 
