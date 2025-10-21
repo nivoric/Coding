@@ -1,34 +1,26 @@
-# 🧑‍💼 Single-Page CV Website
+# Personal CV Website
 
-A simple and elegant **single-page CV (resume) website** built using **HTML5** and **CSS3**.  
-This project demonstrates fundamental front-end skills — semantic HTML structure, responsive layout design, and minimalist visual styling without any frameworks.
-
----
-
-## 🎯 Project Overview
-
-- This project is designed to create a clean, single-page online CV that highlights personal information, education, skills, and contact details — all within a concise layout.
-
-- It’s ideal for **beginners** learning front-end development, or anyone who wants to host their resume online with zero backend dependencies.
-
-- This project is good for absolute beginners in coding who only know basic HTML and CSS.
-
-- This is inspired by the roadmap.sh front-end projects (beginner level)
+A clean, responsive single-page **CV website** built with **HTML and CSS**.  
+This project demonstrates fundamental front-end development principles — semantic HTML structure, responsive design, and custom styling — to create a professional personal portfolio or resume page.
 
 ---
 
-## 🧩 Features
+## 🧭 Overview
 
-- Fully static — built with simple **HTML + CSS only**
-- Responsive design (adjusts for mobile, tablet, and desktop)
-- Clean, readable layout for recruiters or hiring managers
-- Easily customizable — edit text, colors, and layout to match your branding
-- Lightweight and fast to load
-- No external libraries or frameworks required
+This project serves as a **personal online CV** where you can showcase your background, skills, and contact information.  
+It’s lightweight, fast-loading, and easy to customize — perfect for hosting on GitHub Pages or any static site provider.
+
+### ✨ Key Features
+- Fully responsive layout for desktop and mobile screens  
+- Modern, minimal design using pure HTML and CSS  
+- Easy to customize content and styles  
+- Compatible with all major browsers  
 
 ---
 
-## 🚧 Steps to copy this project
+## ⚙️ Installation
 
-1. Git clone the repo or download it from the GitHub website to your machine
-2. Modify the project by adding your personal info and even use it as a personal CV for hiring
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/nivoric/Coding.git
